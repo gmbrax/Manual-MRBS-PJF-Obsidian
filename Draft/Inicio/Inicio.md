@@ -9,3 +9,8 @@ O Sistema está disponível na rede interna da prefeitura sendo que não é poss
 
 ### Como Acessar o sistema:
 O sistema está disponível de forma web sendo assim não é necessário a instalação de nenhum programa auxiliar bastando apenas seguir os seguintes passos: 
+- Abra o navegador de sua preferencia ( Firefox, Chrome, Edge):
+- Na Barra de endereços digite o seguinte endereço: 172.20.102.134
+- Aguarde o carregamento da aplicação
+- Pronto você já esta acessando o sistema MRBS, Seja Bem Vindo
+
