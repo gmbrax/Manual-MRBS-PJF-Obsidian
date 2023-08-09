@@ -16,3 +16,10 @@ Ao criar a sua conta os dados podem não vir totalmente preenchidos e deve-se al
 #### Uma palavra rápida sobre a senha padrão
 Ao solicitar uma conta há uma grande chance de ser criado com uma senha temporária a mesma deve ser trocada por uma senha segura e desconhecida ao responsável pela criação da senha, para isso deve-se seguir o passo descrito acima e após o ultimo passo deve-se executar os seguintes passos: 
 1)  No campo Senha de acesso digite uma nova senha 
+2)  No campo abaixo repita a senha entrada  no campo acima 
+
+
+#### Uma Outra palavra rápida sobre Permissões no sistema
+O MRBS disponibiliza dois tipos de conta, A conta tipo Administrador e a conta tipo Usuário.
+Para maioria dos usuários  o tipo de conta disponibilizado é o tipo Usuário, sendo que esse  tipo permite a criação de entradas e a  edição de entradas.
+Para aqueles que tem a conta do tipo Administrador, essa conta tem as permissões da conta tipo usuário e inclui também a possibilidade de gerar relatórios sobre as entradas, importar entradas, adicionar usuários, remover usuários , editar usuários, adicionar salas e/ou áreas, editar salas e/ou áreas, remover salas e/ou áreas. 

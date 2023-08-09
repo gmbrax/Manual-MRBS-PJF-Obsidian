@@ -1,4 +1,3 @@
-
 ## Sobre o MRBS
  Sistema de Reservas de Salas de Reuniões (MRBS) é um software gratuito criado para facilitar a organização de salas de reuniões. Com o MRBS, você pode fazer reservas e gerenciar salas com eficiência, garantindo que as reuniões ocorram de forma organizada e produtiva.
  

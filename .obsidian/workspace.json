@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/Inicio/Sua Conta.md",
+                "file": "Draft/Interface/A Interface para o Tipo Usuário.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/Inicio/Sua Conta.md",
+                "file": "Draft/Interface/A Interface para o Tipo Usuário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draft/Inicio/Sua Conta.md",
+                "file": "Draft/Interface/A Interface para o Tipo Usuário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft/Inicio/Sua Conta.md"
+                "file": "Draft/Interface/A Interface para o Tipo Usuário.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "68e116ab93f46480",
   "lastOpenFiles": [
-    "Draft/Inicio/Inicio.md",
     "Draft/Inicio/Sua Conta.md",
+    "Draft/Interface/A Interface para o Tipo Usuário.md",
+    "Draft/Inicio/Inicio.md",
+    "Draft/Interface",
     "Indice.md",
     "Draft/Inicio",
     "Draft"
