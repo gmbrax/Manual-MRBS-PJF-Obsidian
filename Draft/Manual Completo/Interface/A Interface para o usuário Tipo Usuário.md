@@ -109,6 +109,39 @@ A página contém vários  campos e componentes para obter os dados desejados.
 (Inserir aqui figura contendo a pagina principal )
 ##### Componentes pagina de visualização de salas
 
-######  Campo Área
+###### Campo Área
 O campo Área ( Inserir o numero correspondente na figura acima) permite selecionar qual área deseja visualizar.
+
+###### Componente Listagem de salas
+O componente Listagem de salas ( Inserir o numero correspondente na figura acima) contém vários sub campos e permite ao usuário buscar e exibir uma listagem de todas as salas que pertencem à área.
+(Inserir figura contendo o componente)
+Seus subcampos são:
+
+*Barra de controle da listagem*
+
+Seletor de Numero de resultados*
+
+**Exibir / Esconder colunas** 
+
+**Copia**
+
+**CSV**
+
+**Excel**
+
+**PDF**
+
+**Imprimir**
+
+*Campo de Busca*
+
+*Listagem de Salas*
+
+*Paginador*
+
+
+
+
+
+
 

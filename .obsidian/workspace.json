@@ -91,7 +91,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +147,7 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "a4d1ae936277e743",
+  "active": "3201c156a2cf5cbb",
   "lastOpenFiles": [
     "Draft/Manual Completo",
     "Draft/Manual Completo/Ações/Ações do Sistema.md",
