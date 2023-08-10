@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/Interface/A Interface para o usuário Tipo Usuário.md",
+                "file": "Draft/Manual Completo/Interface/A Interface para o usuário Tipo Usuário.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/Interface/A Interface para o usuário Tipo Usuário.md",
+                "file": "Draft/Manual Completo/Interface/A Interface para o usuário Tipo Usuário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draft/Interface/A Interface para o usuário Tipo Usuário.md",
+                "file": "Draft/Manual Completo/Interface/A Interface para o usuário Tipo Usuário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft/Interface/A Interface para o usuário Tipo Usuário.md"
+                "file": "Draft/Manual Completo/Interface/A Interface para o usuário Tipo Usuário.md"
               }
             }
           }
@@ -147,14 +147,18 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "68e116ab93f46480",
+  "active": "a4d1ae936277e743",
   "lastOpenFiles": [
-    "Draft/Inicio/Sua Conta.md",
-    "Draft/Interface/A Interface para o usuário Tipo Usuário.md",
-    "Draft/Inicio/Inicio.md",
-    "Draft/Interface",
+    "Draft/Manual Completo",
+    "Draft/Manual Completo/Ações/Ações do Sistema.md",
+    "Draft/Manual Completo/Interface/A Interface para o usuário Tipo Usuário.md",
+    "Sem título.md",
+    "Draft/Manual Completo/Ações",
+    "Draft/Manual Completo/Inicio/Sua Conta.md",
+    "Draft/Manual Completo/Inicio/Inicio.md",
+    "Draft/Manual Completo/Interface",
     "Indice.md",
-    "Draft/Inicio",
+    "Draft/Manual Completo/Inicio",
     "Draft"
   ]
 }
