@@ -89,15 +89,15 @@ O campo Repetir Tipo( Inserir o numero correspondente na figura acima) define se
 O botão voltar ( Inserir o numero correspondente na figura acima) volta à pagina anterior sem salvar as alterações.
 
 
-Salvar 
+###### Salvar 
 O botão Salvar ( Inserir o numero correspondente na figura acima) salva as alterações feitas e edita ou cria a entrada.
 
-Indicador de conflitos de agenda 
+###### Indicador de conflitos de agenda 
 O Indicador de conflitos de agenda ( Inserir o numero correspondente na figura acima)mostra se existe algum conflito na agenda com a marcação que está sendo atualmente editada. 
 Ao clicar no indicado aparecerá uma janela exibindo os conflitos encontrados.
 Conflitos são por exemplo duas reuniões marcadas na mesma sala no mesmo horário, sendo que a precedência é daquela entrada que foi criada anteriormente.
 
-Indicador de conflitos de politica 
+###### Indicador de conflitos de politica 
 O Indicador de conflitos de politica ( Inserir o numero correspondente na figura acima)mostra se existe algum conflito quanto a politicas definidas na aplicação com a marcação que está sendo atualmente editada. 
 Ao clicar no indicado aparecerá uma janela exibindo os conflitos encontrados.
 Conflitos de politica  são por exemplo uma marcação que não segue as politicas definidas na aplicação. 
@@ -105,5 +105,10 @@ No momento nenhuma politica está em vigor logo não será necessário se preocu
 
 #### Pagina de visualização de salas
 Esse página contem a listagem de cada sala por andar, permitindo assim que se visualize as salas e também se visualize detalhes de cada sala. 
-
+A página contém vários  campos e componentes para obter os dados desejados. 
+(Inserir aqui figura contendo a pagina principal )
 ##### Componentes pagina de visualização de salas
+
+######  Campo Área
+O campo Área ( Inserir o numero correspondente na figura acima) permite selecionar qual área deseja visualizar.
+
