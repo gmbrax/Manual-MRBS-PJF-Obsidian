@@ -198,7 +198,34 @@ O componente Listagem de Usuários (Inserir o numero correspondente na figura ac
 O componente Paginador (Inserir o numero correspondente na figura acima)  Permite navegar pela paginas de listagem caso o numero de itens na listagem seja maior que o selecionado no campo  Seletor de Numero de resultados.
 
 
+#### Pagina de edição do usuário
+Essa Página permite que você edite as informações pertinentes ao seu usuário. 
+Essa pagina contem vários campos para essa função.
+
+##### Campos pagina de visualização de usuários
+
+######  Campo Direitos
+Esse Campo não e disponível para o usuário alterar sendo somente permitido à usuários  do tipo administrador.
+Esse campo alterar o tipo de usuário no sistema
+###### Campo Nome de usuário (username)
+Esse Campo não e disponível para o usuário alterar sendo somente permitido à usuários  do tipo administrador.
+Esse Campo alterar o seu nome de usuário
+
+###### Campo Nome 
+Esse Campo não e disponível para o usuário alterar sendo somente permitido à usuários  do tipo administrador.
+Esse Campo altera o seu nome usado no sistema
+
+###### Campo Endereço de E-mail
+Esse Campo é alterável pelo usuário do tipo usuário.
+Esse campo altera o e-mail utilizado pelo sistema
 
 
+###### Campos Senha Acesso
+Esse Campo se repete duas vezes e permite o usuário editar a sua senha de acesso sendo necessário repetir a senha em ambos os campos para validar a alteração
 
+###### Botão Voltar
+Esse botão volta à pagina anterior sem salvar as alterações feitas.
+
+###### Botão Salvar 
+Esse botão permite salvar as alterações feitas na pagina
 
