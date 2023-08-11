@@ -2,12 +2,11 @@ O MRBS apresenta uma interface relativamente simples quanto à sua função send
 
 ### Paginas do Sistema
 Os usuário com a permissão Usuário ou seja do tipo Usuário apresenta as seguintes telas disponíveis para acesso:
-- Pagina Principal
-- Pagina de Criação e edição e de entradas 
-- Pagina de Ajuda
-- Pagina de Salas
-- Pagina de Listagem de usuários
-- A Pagina de usuário
-- Pagina de pesquisa de entrada
+- [[Pagina de Busca]]
+- [[Pagina de criação ou edição de Entrada]]
+- [[Pagina de edição do usuário]]
+- [[Pagina de visualização de salas]]
+- [[Pagina de visualização de usuários]]
+- [[Página Principal]]
 
 Cada pagina tem a sua função e a sua utilidade que será descrita nessa parte do manual
