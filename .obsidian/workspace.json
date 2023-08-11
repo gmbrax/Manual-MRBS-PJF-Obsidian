@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Entendo a interface de usuário do MRBS Para usuário não administradores.md",
+                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de Visualização de entrada.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Entendo a interface de usuário do MRBS Para usuário não administradores.md",
+                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de Visualização de entrada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Entendo a interface de usuário do MRBS Para usuário não administradores.md",
+                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de Visualização de entrada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Entendo a interface de usuário do MRBS Para usuário não administradores.md"
+                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de Visualização de entrada.md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,12 +150,13 @@
   "active": "68e116ab93f46480",
   "lastOpenFiles": [
     "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Página Principal.md",
+    "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de Visualização de entrada.md",
+    "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de visualização de salas.md",
+    "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de Busca.md",
     "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Entendo a interface de usuário do MRBS Para usuário não administradores.md",
     "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de visualização de usuários.md",
-    "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de visualização de salas.md",
     "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de edição do usuário.md",
     "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de criação ou edição de Entrada.md",
-    "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de Busca.md",
     "Draft/Manual Completo/Interface/A Interface para o usuário Tipo Usuário.md",
     "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas",
     "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário",
