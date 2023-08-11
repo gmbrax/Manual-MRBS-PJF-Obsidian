@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/Manual Completo/Interface/A Interface para o usuário Tipo Usuário.md",
+                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de Busca.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 451.5
   },
   "right": {
     "id": "a0ddc871b475881f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/Manual Completo/Interface/A Interface para o usuário Tipo Usuário.md",
+                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de Busca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draft/Manual Completo/Interface/A Interface para o usuário Tipo Usuário.md",
+                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de Busca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft/Manual Completo/Interface/A Interface para o usuário Tipo Usuário.md"
+                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de Busca.md"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,8 +149,17 @@
   },
   "active": "68e116ab93f46480",
   "lastOpenFiles": [
-    "A Interface para o usuário Tipo Usuário.pdf",
     "Draft/Manual Completo/Interface/A Interface para o usuário Tipo Usuário.md",
+    "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de Busca.md",
+    "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de edição do usuário.md",
+    "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Entendo a interface de usuário do MRBS.md",
+    "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de visualização de usuários.md",
+    "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Página Principal.md",
+    "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de visualização de salas.md",
+    "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de criação ou edição de Entrada.md",
+    "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas",
+    "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário",
+    "A Interface para o usuário Tipo Usuário.pdf",
     "Manual MRBS Obsidian.zip",
     "Manual MRBS Obsidian.zip.tmp",
     "Draft/Manual Completo",
