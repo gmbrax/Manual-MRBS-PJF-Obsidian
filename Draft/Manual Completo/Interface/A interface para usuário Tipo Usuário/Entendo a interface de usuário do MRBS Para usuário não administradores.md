@@ -5,6 +5,7 @@ Os usuário com a permissão Usuário ou seja do tipo Usuário apresenta as segu
 - [[Pagina de Busca]]
 - [[Pagina de criação ou edição de Entrada]]
 - [[Pagina de edição do usuário]]
+- [[Pagina de Visualização de entrada]]
 - [[Pagina de visualização de salas]]
 - [[Pagina de visualização de usuários]]
 - [[Página Principal]]

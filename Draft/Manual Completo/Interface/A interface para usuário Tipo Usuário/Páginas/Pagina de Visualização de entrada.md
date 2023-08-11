@@ -10,7 +10,7 @@ Os Componentes e campos desta página se divide em duas partes, sendo a primeira
 
 
 
-*Componentes e campos da segunda parte (Inserir numeração conforme figura acima)*
+*Componentes e campos da segunda parte(Inserir numeração conforme figura acima)*
 os componentes abaixo variam conforme quem criou a entrada sendo que a maioria das opções somente fica disponível se a entrada foi criada pelo usuário ativo 
 
 **Botão de Editar reserva**
