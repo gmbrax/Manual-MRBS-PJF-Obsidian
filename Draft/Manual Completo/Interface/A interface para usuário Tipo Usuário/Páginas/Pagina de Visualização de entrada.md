@@ -13,7 +13,7 @@ Os Componentes e campos desta página se divide em duas partes, sendo a primeira
 *Componentes e campos da segunda parte(Inserir numeração conforme figura acima)*
 os componentes abaixo variam conforme quem criou a entrada sendo que a maioria das opções somente fica disponível se a entrada foi criada pelo usuário ativo 
 
-**Botão de Editar reserva**
+**Botão de Editar Reserva**
 Esse botão permite editar a entrada. entrando na pagina de criação e/ou edição de entrada.
 Esse botão somente fica disponível se a entrada foi criada pelo usuário ativo 
 

@@ -1,14 +1,14 @@
 #### Pagina de busca
 A Pagina de busca permite buscar entradas feitas usando um texto de busca 
 (Inserir Figura contendo a pagina citada)
-##### Campos e componentes  pagina de visualização de usuários
+##### Campos\ e componentes  pagina de visualização de usuários
 Os campos e componentes se divide em duas parte a primeira sendo para executar a buscar e a segunda que contem os resultados gerados pela busca feita. 
 
 ###### Parte de Pesquisa
 (Inserir Figura contendo a parte citada)
 A parte de pesquisa contem meios de buscar as entradas feitas no sistema
 
-*Campos e componentes da parte de pesquisa*
+*Campos e com\emponentes da parte de pesquisa*
 
 **Campo Pesquisar por**
 Esse campo  (Inserir o numero correspondente na figura acima) é onde e colocado o texto que deseja pesquisar.
@@ -19,7 +19,7 @@ Esse campo (Inserir o numero correspondente na figura acima) permite alterar a d
 **Botão Pesquisar**
 Esse Botão (Inserir o numero correspondente na figura acima) executa a busca e retorna os resultados
 
-###### Parte de Resultados
+###### Parte de Resultados 
 (Inserir Figura contendo a parte citada)
 Essa parte exibe os resultados retornados pela pesquisa. caso a pesquisa retorne nenhum resultado essa parte fica escondida e não exibe os componentes abaixo citado.
 Podendo também exibir erros caso dados inválidos seja inseridos no campo de pesquisa.

@@ -11,7 +11,6 @@ A Pagina principal contem varias partes sendo elas:
 O cabeçalho tem a função de oferecer opções de navegação no sistema
 (Inserir Figura do cabeçalho)
 
-
 ###### Barra lateral esquerda
 A Barra lateral contem os minicalendários para poder visualizar e acessar datas da agenda
 
