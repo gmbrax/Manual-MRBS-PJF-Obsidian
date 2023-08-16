@@ -1,0 +1,1 @@
+Esse pagina tem poucas alterações quanto a sua versão para usuário, sendo que o administrador pode editar qualquer entrada feita no sistema.
