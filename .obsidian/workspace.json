@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Adminstrador/Páginas/Pagina de edição de salas.md",
+                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Adminstrador/Páginas/Pagina de edição de área.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Adminstrador/Páginas/Pagina de edição de salas.md",
+                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Adminstrador/Páginas/Pagina de edição de área.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Adminstrador/Páginas/Pagina de edição de salas.md",
+                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Adminstrador/Páginas/Pagina de edição de área.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Adminstrador/Páginas/Pagina de edição de salas.md"
+                "file": "Draft/Manual Completo/Interface/A interface para usuário Tipo Adminstrador/Páginas/Pagina de edição de área.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "68e116ab93f46480",
   "lastOpenFiles": [
-    "Draft/Manual Completo/Interface/A interface para usuário Tipo Adminstrador/Páginas/Pagina de Visualização de Salas.md",
     "Draft/Manual Completo/Interface/A interface para usuário Tipo Adminstrador/Páginas/Pagina de edição de salas.md",
+    "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de criação ou edição de Entrada.md",
+    "Draft/Manual Completo/Interface/A interface para usuário Tipo Adminstrador/Páginas/Pagina de edição de área.md",
+    "Draft/Manual Completo/Interface/A interface para usuário Tipo Adminstrador/Páginas/Pagina de Visualização de Salas.md",
     "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de visualização de salas.md",
     "Draft/Manual Completo/Interface/A interface para usuário Tipo Adminstrador/Páginas/Pagina de Visualização de entrada.md",
     "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de Visualização de entrada.md",
@@ -160,7 +162,6 @@
     "Draft/Manual Completo/Interface/A interface para usuário Tipo Adminstrador/Páginas/Pagina de Importar.md",
     "Draft/Manual Completo/Interface/A interface para usuário Tipo Adminstrador/Páginas/Pagina de Relatórios.md",
     "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de Busca.md",
-    "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de criação ou edição de Entrada.md",
     "Draft/Manual Completo/Interface/A interface para usuário Tipo Adminstrador/Entendo a interface de usuário do MRBS Para usuário não administradores.md",
     "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Pagina de edição do usuário.md",
     "Draft/Manual Completo/Interface/A interface para usuário Tipo Usuário/Páginas/Página Principal.md",
