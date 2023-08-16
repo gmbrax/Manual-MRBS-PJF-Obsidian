@@ -28,7 +28,7 @@ Esse campo determina o delimitador usado na importação
 Esse campo determina se caso a sala no arquivo não exista no sistema, que ela seja criada no sistema ao importar
 
 ###### Campo Tipo Padrão:
-Esse campo determina qual o tipo entrada sera importada para o sistema
+Esse campo determina qual o tipo entrada será importada para o sistema
 
 ###### Campo Importar reservas anteriores
 Esse campo permite que as entradas importadas que tem a data anterior a data da importação seja importada
