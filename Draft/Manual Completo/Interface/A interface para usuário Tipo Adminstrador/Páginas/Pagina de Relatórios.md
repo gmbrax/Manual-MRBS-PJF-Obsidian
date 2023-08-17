@@ -36,7 +36,6 @@ Determina o texto a ser buscado nos campo Marcado Por das entradas e retorna ape
 Determina o valor do estado da reserva e retorna apenas aquelas que tem o estado selecionado. 
 
 #####  Componentes e campos da parte das Opções de Apresentação:
-Nessa parte contem as opções quanto como será exibido o resultado da busca 
 
 ###### Campo Saída
 Esse campo determina qual o tipo saída da busca
